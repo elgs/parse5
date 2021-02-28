@@ -1,4 +1,4 @@
-import * as parse5 from '../lib/index.js';
+import * as parse5 from 'https://deno.land/x/parse5/parse5/lib/index.js';
 
 const documentFragment = parse5.parseFragment('<table></table>');
 
